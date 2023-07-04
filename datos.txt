@@ -1,0 +1,112 @@
+Carrera: Ingeniería de Software
+Semestre 1:
+Año 1: 13
+Año 2: 9
+Año 3: 42
+Año 4: 95
+Año 5: 45
+
+Semestre 2:
+Año 1: 41
+Año 2: 39
+Año 3: 64
+Año 4: 79
+Año 5: 99
+
+
+Carrera: Administración
+Semestre 1:
+Año 1: 76
+Año 2: 15
+Año 3: 95
+Año 4: 4
+Año 5: 69
+
+Semestre 2:
+Año 1: 17
+Año 2: 19
+Año 3: 70
+Año 4: 33
+Año 5: 82
+
+
+Carrera: Economía
+Semestre 1:
+Año 1: 7
+Año 2: 92
+Año 3: 21
+Año 4: 2
+Año 5: 88
+
+Semestre 2:
+Año 1: 57
+Año 2: 73
+Año 3: 72
+Año 4: 52
+Año 5: 35
+
+
+Carrera: Relaciones Internacionales
+Semestre 1:
+Año 1: 97
+Año 2: 70
+Año 3: 79
+Año 4: 4
+Año 5: 70
+
+Semestre 2:
+Año 1: 50
+Año 2: 57
+Año 3: 44
+Año 4: 49
+Año 5: 9
+
+
+Carrera: Matemáticas
+Semestre 1:
+Año 1: 27
+Año 2: 72
+Año 3: 53
+Año 4: 81
+Año 5: 69
+
+Semestre 2:
+Año 1: 98
+Año 2: 12
+Año 3: 67
+Año 4: 72
+Año 5: 46
+
+
+Carrera: Contabilidad
+Semestre 1:
+Año 1: 74
+Año 2: 29
+Año 3: 15
+Año 4: 96
+Año 5: 50
+
+Semestre 2:
+Año 1: 81
+Año 2: 37
+Año 3: 57
+Año 4: 19
+Año 5: 97
+
+
+Carrera: Ingeniería Industrial
+Semestre 1:
+Año 1: 15
+Año 2: 22
+Año 3: 17
+Año 4: 6
+Año 5: 87
+
+Semestre 2:
+Año 1: 44
+Año 2: 29
+Año 3: 9
+Año 4: 60
+Año 5: 60
+
+
